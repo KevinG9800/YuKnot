@@ -1,3 +1,6 @@
-nav{
-    align-items: center;
+.nav-icons{
+    padding: 10px;
+}
+#nav-tab{
+    padding: 15px;
 }
