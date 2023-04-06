@@ -1,6 +1,7 @@
-.nav-icons{
-    padding: 10px;
+.container{
+    width: 1000px;
 }
-#nav-tab{
-    padding: 15px;
+
+p {
+    text-align: justify;
 }
